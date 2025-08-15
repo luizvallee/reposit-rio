@@ -1,1 +1,2 @@
-"Dois hamb�rgueres, queijo, alface, molho especial, cebola, picles no p�o com gergelim" 
+"Dois hamb£rgueres, queijo, alface, molho especial, cebola, picles no pÆo com gergelim" 
+"Dois hamb£rgueres, alface, queijo, molho especial, cebola, picles no pÆo com gergelim" 
